@@ -36,3 +36,24 @@ git remote add origin https://github.com/c17hawke/simple-dvc-demo.git
 git branch -M main
 
 git push origin main
+
+*************************
+tox command 
+**************************
+tox 
+***************************
+for rebuilding tox 
+***************************
+tox -r
+***************************
+pytest -v
+***************************
+setup commands
+***************************
+pip install -e .
+****************************
+
+build your own package for that the commands
+
+python setup.py sdist bdist_wheel
+********************************
