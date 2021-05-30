@@ -38,18 +38,18 @@ git branch -M main
 git push origin main
 
 *************************
-tox command 
-**************************
+tox command :
+
 tox 
 ***************************
-for rebuilding tox 
-***************************
+for rebuilding tox :
+
 tox -r
 ***************************
 pytest -v
 ***************************
-setup commands
-***************************
+setup commands:
+
 pip install -e .
 ****************************
 
