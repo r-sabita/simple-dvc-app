@@ -26,7 +26,7 @@ def predict(data):
     prediction = model.predict(data)
     print(prediction)
     return prediction[0]
-
+ 
  
 def api_response(request):
     try:
