@@ -1,2 +1,18 @@
 {
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "python.linting.mypyPath": "mypy",
+    "python.linting.pylamaPath": "pylama",
+    "python.pythonPath": "python",
+    "python.testing.pytestPath": "pytest",
+    "python.formatting.autopep8Path": "autopep8",
+    "python.formatting.blackPath": "black",
+    "python.formatting.yapfPath": "yapf",
+    "python.linting.banditPath": "bandit",
+    "python.linting.flake8Path": "flake8"
 }
