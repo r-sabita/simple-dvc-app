@@ -8,7 +8,6 @@
     },
     "python.linting.mypyPath": "mypy",
     "python.linting.pylamaPath": "pylama",
-    "python.pythonPath": "python",
     "python.testing.pytestPath": "pytest",
     "python.formatting.autopep8Path": "autopep8",
     "python.formatting.blackPath": "black",
